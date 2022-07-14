@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Virtual Buddy</string>
+    <string name="Friend_status">health</string>
+    <string name="Goal_status">health</string>
+    <string name="Friend_name">
+        Caleb</string>
+    <string name="Goal_name">
+        Caleb</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="dialog_message">Are you sure you want to unfriend?</string>
+    <string name="dialog_title">Confirm Unfriend</string>
+    <string-array name="apps">
+        <item>Discord</item>
+        <item>Instagram</item>
+        <item>Duo</item>
+        <item>Twitter</item>
+    </string-array>
+    <string-array name="timeUnits">
+        <item>Days</item>
+        <item>Hours</item>
+        <item>Minutes</item>
+    </string-array>
+</resources>
